@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27994174339",
+    "project_id": "hospital-patients-a3804",
+    "storage_bucket": "hospital-patients-a3804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27994174339:android:524277d705e389458e3cb6",
+        "android_client_info": {
+          "package_name": "com.example.hospital_patients"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAHLKgXwCFjd7nOMmB69quzOJWJ7hNH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

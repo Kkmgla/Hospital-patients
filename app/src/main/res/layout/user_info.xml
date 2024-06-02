@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="24dp"
+    app:cardElevation="10dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="592dp">
+
+        <TextView
+            android:id="@+id/tvUserInfoName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="name"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvUserInfoEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="email"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvUserInfoName" />
+
+        <TextView
+            android:id="@+id/tvUserInfoAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="28dp"
+            android:text="age"
+            android:textSize="24sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvUserInfoEmail" />
+
+        <TextView
+            android:id="@+id/tvUserInfoSex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="36dp"
+            android:text="sex"
+            android:textSize="24sp"
+            app:layout_constraintStart_toEndOf="@+id/tvUserInfoAge"
+            app:layout_constraintTop_toTopOf="@+id/tvUserInfoAge" />
+
+        <TextView
+            android:id="@+id/tvUserInfoAnamnesis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="36dp"
+            android:layout_marginEnd="40dp"
+            android:text="anamnesis"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tvUserInfoSex"
+            app:layout_constraintTop_toTopOf="@+id/tvUserInfoAge" />
+
+        <TextView
+            android:id="@+id/tvUserInfoAnamnesisFull"
+            android:layout_width="347dp"
+            android:layout_height="250dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="44dp"
+            android:layout_marginEnd="40dp"
+            android:text="anamnesisFull"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.961"
+            app:layout_constraintStart_toStartOf="@+id/tvUserInfoAnamnesis"
+            app:layout_constraintTop_toBottomOf="@+id/tvUserInfoAge" />
+
+        <TextView
+            android:id="@+id/tvUserInfoBack"
+            android:layout_width="0dp"
+            android:layout_height="42dp"
+            android:layout_marginTop="36dp"
+            android:background="@color/button_gray"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="Back"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvUserInfoAnamnesisFull"
+            app:layout_constraintVertical_bias="1.0" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,264 @@
+{
+  "user": {
+    "mishafilippov@gmail(dot)com": {
+      "age": 19,
+      "anamnesis": "J.45",
+      "anamnesisFull": "У Михаила хронический тонзиллит - это длительное воспаление миндалин, сопровождающееся частыми обострениями, которые могут привести к болям в горле, затруднению глотания и другим неприятным симптомам.",
+      "email": "mishafilippov@gmail(dot)com",
+      "firstname": "Michail",
+      "id": "-NzKKwxo0Ce3q6dPXIB7",
+      "lastname": "Filippov",
+      "sex": "Male"
+    },
+    "victorgrigozhin@gmail(dot)com": {
+      "age": 25,
+      "anamnesis": "C.78",
+      "anamnesisFull": "У Виктора диагностирована язва желудка. Это состояние, при котором образуется язва на слизистой оболочке желудка.",
+      "email": "victorgrigozhin@gmail(dot)com",
+      "firstname": "Victor",
+      "id": "-NzKKwxo4Ce7q6d2XIB7",
+      "lastname": "Prigozhin",
+      "sex": "Male"
+    },
+    "annapetrova@gmail(dot)com": {
+      "age": 30,
+      "anamnesis": "E.11",
+      "anamnesisFull": "У Анны выявлена экзема. Это хроническое воспалительное заболевание кожи, проявляющееся в виде зуда, покраснения, сухости и шелушения кожи.",
+      "email": "annapetrova@gmail(dot)com",
+      "firstname": "Anna",
+      "id": "-NzKKwxo8Ce9q7d4YIB8",
+      "lastname": "Petrova",
+      "sex": "Female"
+    },
+    "dmitryivanov@gmail(dot)com": {
+      "age": 40,
+      "anamnesis": "I.10",
+      "anamnesisFull": "У Дмитрия имеется астматический бронхит, характеризующийся воспалением бронхиальных трубок и приводящий к частым приступам одышки, кашлю и затруднению дыхания.",
+      "email": "dmitryivanov@gmail(dot)com",
+      "firstname": "Dmitry",
+      "id": "-NzKKwxo1Ce3q6dPXIB9",
+      "lastname": "Ivanov",
+      "sex": "Male"
+    },
+    "elenasmirnova@gmail(dot)com": {
+      "age": 35,
+      "anamnesis": "M.19",
+      "anamnesisFull": "У Елены диагностирована аллергия на пыльцу, что приводит к сезонным обострениям насморка, зуду в глазах и кашлю.",
+      "email": "elenasmirnova@gmail(dot)com",
+      "firstname": "Elena",
+      "id": "-NzKKwxo2Ce3q6dPXIBA",
+      "lastname": "Smirnova",
+      "sex": "Female"
+    },
+    "pavelvolkov@gmail(dot)com": {
+      "age": 28,
+      "anamnesis": "K.52",
+      "anamnesisFull": "У Павла наблюдается гастроэзофагеальный рефлюкс (GERD), сопровождающийся изжогой, чувством тяжести в животе и регургитацией.",
+      "email": "pavelvolkov@gmail(dot)com",
+      "firstname": "Pavel",
+      "id": "-NzKKwxo5Ce3q6dPXIBB",
+      "lastname": "Volkov",
+      "sex": "Male"
+    },
+    "sofiakuznetsova@gmail(dot)com": {
+      "age": 22,
+      "anamnesis": "H.35",
+      "anamnesisFull": "У Софии выявлена мигрень, проявляющаяся регулярными приступами головной боли, чувством тошноты и повышенной чувствительностью к свету и звуку.",
+      "email": "sofiakuznetsova@gmail(dot)com",
+      "firstname": "Sofia",
+      "id": "-NzKKwxo6Ce3q6dPXIBC",
+      "lastname": "Kuznetsova",
+      "sex": "Female"
+    },
+    "nikolayvoronov@gmail(dot)com": {
+      "age": 45,
+      "anamnesis": "D.21",
+      "anamnesisFull": "У Николая имеется хронический простатит, вызывающий боли в пояснице, затруднения с мочеиспусканием и ухудшение качества жизни.",
+      "email": "nikolayvoronov@gmail(dot)com",
+      "firstname": "Nikolay",
+      "id": "-NzKKwxo7Ce3q6dPXIBD",
+      "lastname": "Voronov",
+      "sex": "Male"
+    },
+    "tatyanaromanova@gmail(dot)com": {
+      "age": 29,
+      "anamnesis": "L.34",
+      "anamnesisFull": "У Татьяны диагностирована сахарный диабет типа 2, сопровождающийся частым мочеиспусканием, сухостью во рту и повышенной утомляемостью.",
+      "email": "tatyanaromanova@gmail(dot)com",
+      "firstname": "Tatyana",
+      "id": "-NzKKwxo9Ce3q6dPXIBE",
+      "lastname": "Romanova",
+      "sex": "Female"
+    },
+    "alexandrnovikov@gmail(dot)com": {
+      "age": 50,
+      "anamnesis": "G.20",
+      "anamnesisFull": "У Александра выявлены хронические геморрой и варикозное расширение вен нижних конечностей, вызывающие дискомфорт, боли и отечность.",
+      "email": "alexandrnovikov@gmail(dot)com",
+      "firstname": "Alexandr",
+      "id": "-NzKKwxo0Ce3q6dPXIBF",
+      "lastname": "Novikov",
+      "sex": "Male"
+    },
+    "mariadobrovolskaya@gmail(dot)com": {
+      "age": 33,
+      "anamnesis": "A.12",
+      "anamnesisFull": "У Марии имеется хронический гастрит с выраженной секреторной недостаточностью, приводящий к болям в эпигастральной области, изжоге и чувству тяжести после еды.",
+      "email": "mariadobrovolskaya@gmail(dot)com",
+      "firstname": "Maria",
+      "id": "-NzKKwxo1Ce3q6dPXIBG",
+      "lastname": "Dobrovolskaya",
+      "sex": "Female"
+    },
+    "andreyzaytsev@gmail(dot)com": {
+      "age": 27,
+      "anamnesis": "B.40",
+      "anamnesisFull": "У Андрея диагностирована рецидивирующая депрессия, проявляющаяся пониженным настроением, потерей интереса к жизни и сонными расстройствами.",
+      "email": "andreyzaytsev@gmail(dot)com",
+      "firstname": "Andrey",
+      "id": "-NzKKwxo2Ce3q6dPXIBH",
+      "lastname": "Zaytsev",
+      "sex": "Male"
+    },
+    "olgamitrofanova@gmail(dot)com": {
+      "age": 38,
+      "anamnesis": "F.25",
+      "anamnesisFull": "У Ольги выявлена артритическая форма ревматоидного артрита, сопровождающаяся болями и отечностью в суставах, утренней скованностью и ухудшением физической активности.",
+      "email": "olgamitrofanova@gmail(dot)com",
+      "firstname": "Olga",
+      "id": "-NzKKwxo3Ce3q6dPXIBI",
+      "lastname": "Mitrofanova",
+      "sex": "Female"
+    },
+    "sergeimakarov@gmail(dot)com": {
+      "age": 31,
+      "anamnesis": "N.89",
+      "anamnesisFull": "У Сергея имеется гипертоническая болезнь, вызывающая повышенное артериальное давление, головокружения и чувство усталости.",
+      "email": "sergeimakarov@gmail(dot)com",
+      "firstname": "Sergei",
+      "id": "-NzKKwxo4Ce3q6dPXIBJ",
+      "lastname": "Makarov",
+      "sex": "Male"
+    },
+    "irinakozlova@gmail(dot)com": {
+      "age": 42,
+      "anamnesis": "O.67",
+      "anamnesisFull": "У Ирины выявлена аутоиммунная болезнь щитовидной железы, сопровождающаяся утомляемостью, изменением веса и нарушением менструального цикла.",
+      "email": "irinakozlova@gmail(dot)com",
+      "firstname": "Irina",
+      "id": "-NzKKwxo5Ce3q6dPXIBK",
+      "lastname": "Kozlova",
+      "sex": "Female"
+    },
+    "maximfedorov@gmail(dot)com": {
+      "age": 34,
+      "anamnesis": "Q.12",
+      "anamnesisFull": "У Максима имеется синдром раздраженного кишечника, проявляющийся болями в животе, запорами и диареей.",
+      "email": "maximfedorov@gmail(dot)com",
+      "firstname": "Maxim",
+      "id": "-NzKKwxo6Ce3q6dPXIBL",
+      "lastname": "Fedorov",
+      "sex": "Male"
+    },
+    "ekaterinagavrilova@gmail(dot)com": {
+      "age": 29,
+      "anamnesis": "R.45",
+      "anamnesisFull": "У Екатерины диагностирована анемия, вызванная дефицитом железа, сопровождающаяся слабостью, бледностью кожи и повышенной утомляемостью.",
+      "email": "ekaterinagavrilova@gmail(dot)com",
+      "firstname": "Ekaterina",
+      "id": "-NzKKwxo7Ce3q6dPXIBM",
+      "lastname": "Gavrilova",
+      "sex": "Female"
+    },
+    "vladimirkuzmin@gmail(dot)com": {
+      "age": 37,
+      "anamnesis": "S.78",
+      "anamnesisFull": "У Владимира имеется хронический бронхит, вызванный курением, сопровождающийся кашлем с мокротой и одышкой.",
+      "email": "vladimirkuzmin@gmail(dot)com",
+      "firstname": "Vladimir",
+      "id": "-NzKKwxo8Ce3q6dPXIBN",
+      "lastname": "Kuzmin",
+      "sex": "Male"
+    },
+    "ekaterinalapina@gmail(dot)com": {
+      "age": 26,
+      "anamnesis": "T.32",
+      "anamnesisFull": "У Екатерины диагностирована аллергический ринит, вызванный реакцией на пыльцу и пыль, сопровождающийся заложенностью носа, чиханием и насморком.",
+      "email": "ekaterinalapina@gmail(dot)com",
+      "firstname": "Ekaterina",
+      "id": "-NzKKwxo9Ce3q6dPXIBO",
+      "lastname": "Lapina",
+      "sex": "Female"
+    },
+    "pavelnikitin@gmail(dot)com": {
+      "age": 33,
+      "anamnesis": "U.45",
+      "anamnesisFull": "У Павла Никитина дополнительно обнаружен гастроэнтерит, вызванный инфекцией желудочно-кишечного тракта, сопровождающийся тошнотой, рвотой, болями в животе и диареей.",
+      "email": "pavelnikitin@gmail(dot)com",
+      "firstname": "Pavel",
+      "id": "-NzKKwxo0Ce3q6dPXIBP",
+      "lastname": "Nikitin",
+      "sex": "Male"
+    },
+    "anastasiapetrovich@gmail(dot)com": {
+      "age": 39,
+      "anamnesis": "V.15",
+      "anamnesisFull": "У Анастасии Петрович выявлена мигрень, характеризующаяся регулярными приступами головной боли, чувством тошноты и повышенной чувствительностью к свету и звуку.",
+      "email": "anastasiapetrovich@gmail(dot)com",
+      "firstname": "Anastasia",
+      "id": "-NzKKwxo1Ce3q6dPXIBQ",
+      "lastname": "Petrovich",
+      "sex": "Female"
+    },
+    "alexeyvorobyov@gmail(dot)com": {
+      "age": 44,
+      "anamnesis": "W.78",
+      "anamnesisFull": "У Алексея Воробьева обнаружен гастродуоденит, воспаление слизистой оболочки желудка и двенадцатиперстной кишки, сопровождающееся болями в эпигастральной области, изжогой и рвотой.",
+      "email": "alexeyvorobyov@gmail(dot)com",
+      "firstname": "Alexey",
+      "id": "-NzKKwxo2Ce3q6dPXIBR",
+      "lastname": "Vorobyov",
+      "sex": "Male"
+    },
+    "nataliagrigorieva@gmail(dot)com": {
+      "age": 31,
+      "anamnesis": "X.23",
+      "anamnesisFull": "У Натальи Григорьевой обнаружен лактозный дефицит, вызванный недостаточным уровнем лактазы в организме, сопровождающийся вздутием живота, диареей и газообразованием.",
+      "email": "nataliagrigorieva@gmail(dot)com",
+      "firstname": "Natalia",
+      "id": "-NzKKwxo3Ce3q6dPXIBS",
+      "lastname": "Grigorieva",
+      "sex": "Female"
+    },
+    "sergeybelov@gmail(dot)com": {
+      "age": 36,
+      "anamnesis": "Y.15",
+      "anamnesisFull": "У Сергея Белова обнаружен синдром раздраженного кишечника, характеризующийся болями в животе, запорами и диареей.",
+      "email": "sergeybelov@gmail(dot)com",
+      "firstname": "Sergey",
+      "id": "-NzKKwxo4Ce3q6dPXIBT",
+      "lastname": "Belov",
+      "sex": "Male"
+    },
+    "marinakiseleva@gmail(dot)com": {
+      "age": 28,
+      "anamnesis": "Z.37",
+      "anamnesisFull": "У Марины Киселевой выявлена астма, хроническое воспалительное заболевание дыхательных путей, сопровождающееся одышкой, свистящим дыханием и кашлем.",
+      "email": "marinakiseleva@gmail(dot)com",
+      "firstname": "Marina",
+      "id": "-NzKKwxo5Ce3q6dPXIBU",
+      "lastname": "Kiseleva",
+      "sex": "Female"
+    },
+    "alexandrfrolov@gmail(dot)com": {
+      "age": 41,
+      "anamnesis": "AA.89",
+      "anamnesisFull": "У Александра Фролова обнаружен артериальный гипертонус, повышенное артериальное давление, что может приводить к головокружениям, головным болям и утомляемости.",
+      "email": "alexandrfrolov@gmail(dot)com",
+      "firstname": "Alexander",
+      "id": "-NzKKwxo6Ce3q6dPXIBV",
+      "lastname": "Frolov",
+      "sex": "Male"
+    }
+  }
+}
